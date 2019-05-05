@@ -4,6 +4,7 @@ using UnityEngine;
 
 public class Test : MonoBehaviour {
 
+
 	void Start () {
 
 		//５個の配列を初期化する
@@ -20,10 +21,6 @@ public class Test : MonoBehaviour {
 			Debug.Log (array [i]);
 		}
 	}
-
-		
-		
-
 
 
 	void Update () {
